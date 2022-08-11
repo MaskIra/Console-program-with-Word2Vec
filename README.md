@@ -1,5 +1,4 @@
-# Python
-Program using Word2Vec.
+# Program with Word2Vec
 
 Used:
 * library Gensim (word2vec)
@@ -12,4 +11,4 @@ Purpose:
 Implementation:
 * output of similar/opposite words from models
 * rus/eng implementation
-* creating tests
+* creating text tests with 4 answer options
